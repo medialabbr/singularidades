@@ -25,13 +25,6 @@ $background-color: #fff;
 body {
     background-color: $background-color;
 }
-a {
-	color:#48613d;
-}
-
-a:hover {
-	color:#48613d;
-}
 
 .link-round {
 	color: #fff;
@@ -39,7 +32,7 @@ a:hover {
     border-width: 1px;
     border-radius: 30px;
     padding: 15px;
-    border-color: #48613d;
+    border-color: #f44f3a;
 }
 .main {
 	//display: grid;
@@ -72,17 +65,17 @@ a:hover {
 		color: #333;
 		p {
 			font-size: 14px;
-			color: #48613d;
+			color: #f44f3a;
 			margin-bottom: 0;
 			text-decoration: none;
 		}
 		p:hover {
-			color: #48613d;
+			color: #f44f3a;
 		}
 	}
 	.mainsidebar:hover {
-  		background-color: #48613d;
-  		color: #fff;
+  		background-color: #f44f3a;
+  		color: #000;
   		text-decoration: none;
   	}
 
@@ -90,7 +83,7 @@ a:hover {
   		font-size: 10px;
   		p {
   			padding-bottom: 0;
-  			color: #48613d;
+  			color: #f44f3a;
 
   		}
   	}
@@ -110,6 +103,7 @@ a:hover {
 	height: 195px;
 	margin: 40px 30px;
 	background-color: #fff;
+	border
 	span {
 		text-transform: uppercase;
 		font-size: 13px;
@@ -119,7 +113,7 @@ a:hover {
     left: 278px;
 	}
 	a {
-		color: #48613d;
+		color: #f44f3a;
 		font-size: 10pt;
 	}
 	a:hover {
@@ -142,7 +136,7 @@ a:hover {
     width: 240px;
 /*    border-style: solid;
     border-width: 2px;
-    border-color: #48613d;*/
+    border-color: #f44f3a;*/
 
 }
 
@@ -206,11 +200,11 @@ a:hover {
 		padding-bottom: 4em;
 	}
 	p {
-		color: #666;
+		color: #ccc;
 		text-align: center;
 	}
 	b {
-		color: #666;
+		color: #ccc;
 	}
 	span {
 		font-size: 9.5pt;
@@ -244,7 +238,7 @@ a:hover {
 // OBRAS
 
 .obras {
-	padding: 2em 2em 0 4em;
+	padding: 2em 2em 0 0; /*ultimo 0*/
     width: 900px;
 
 
@@ -266,19 +260,13 @@ a:hover {
 	h2 {
 		font-size: 14px;
 		text-align: left;
-		color: #48613d;
+		color: #f44f3a;
 		text-transform: uppercase;
 	}
-	h2, h3, h4 {
+	h2, h3 {
 		padding: 6px 2em;
 	}
-	h4 {
-		color: #fff;
-    	font-size: 9pt;
-    	background: #ccc;
-   		width: 100%;
-    	margin-left: 2em;
-	}
+	
 
 	
 }
@@ -355,7 +343,7 @@ a:hover {
 /* MENU MOBILE */
 
 #menuFloat {
-	color: #48613d;
+	color: #1656A9;
     font-size: 3.7em;
 	padding-top: 3em;
 }
@@ -379,7 +367,7 @@ a:hover {
   overflow-x: hidden;
   transition: 0.5s;
   padding-top: 6em;
-  background: rgba(0,0,0, 0.8);
+  background: #000000f7;
 }
 
 .sidenav a {
@@ -387,16 +375,12 @@ a:hover {
   text-decoration: none;
   display: block;
   transition: 0.3s;
-  color: #fff;
 }
 
 .sidenav .closebtn {
   position: absolute;
-  color: #48613d;
+  color: #1656A9;
   top: 0;
   padding-top: 0px;
   font-size: 50px;
-}
-code {
-    color: #939142;
 }

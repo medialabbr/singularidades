@@ -1,20 +1,189 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    <script src="https://code.jquery.com/jquery-3.5.0.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="/css/main.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-87305218-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-  {% include head.html %}
+      gtag('config', 'UA-87305218-2');
+    </script>
 
+  </head>
   <body>
+    <section class="main container-fluid">
+      <div class="row">
+        <header class="header col-6 col-sm-4 col-md-3 col-lg-2">
+          <a href="/"><img src="/assets/logo-regime.png"></a>
+          
+          <div class="menu d-none d-sm-block">
+            <p><a href='/sobre' class="mainsidebar">sobre</a></p>
+            <p><a href='/ficha-tecnica' class="mainsidebar">ficha técnica</a></p>
+            <p><a href='https://www.instagram.com/semana.integrada.cerrado/'target="_blank" class="mainsidebar">II Semana Integrada do Cerrado</a></p>
 
-    {% include header.html %}
+          </div>
+          
+          <span class="menu d-none d-sm-block">
+            <p>PRODUÇÃO</p>
+            <ul>
+              <li><a href="http://medialab.unb.br/" target="_blank"><img width="100" src="/assets/logos/logo03.svg"></a></li>
+              <li><img width="100" src="/assets/logos/logo00.png"></li>
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
+            </ul>
+            <p>APOIO</p>
+            <div class="row">
+              <div class="col">
+                <img width="65" src="/assets/logos/logo0.png">
+                <img width="65" src="/assets/logos/logo1.png"> <br><br><br>
+                <img width="65" src="/assets/logos/logo2.png"> <br><br><br>
+                <img width="65" src="/assets/logos/logo3.png"> <br><br><br>
+                <img width="65" src="/assets/logos/logo4.png"> 
+                <img width="65" src="/assets/logos/logo5.png"> <br><br>
+                <img width="65" src="/assets/logos/logo6.png"> <br><br>
+                <img width="65" src="/assets/logos/logo7.png"> <br><br><br>
+                <img width="65" src="/assets/logos/logo8.png">
+                <img width="65" src="/assets/logos/logo9.png"> 
+                <img width="65" src="/assets/logos/logo10.png">
+                <img width="65" src="/assets/logos/logo11.png">
+
+
+
+              </div>
+              <div class="col">
+                <img width="65" src="/assets/logos/logo13.png"> <br><br><br>
+                <img width="65" src="/assets/logos/logo14.png"> <br><br><br>
+                <img width="65" src="/assets/logos/logo15.png"> <br><br><br>
+                <img width="65" src="/assets/logos/logo16.png"> 
+                <img width="65" src="/assets/logos/logo17.png"> 
+                <img width="65" src="/assets/logos/logo18.png"> 
+                <img width="65" src="/assets/logos/logo19.png"> <br><br><br>
+                <img width="65" src="/assets/logos/logo20.png"> <br><br><br>
+                <img width="65" src="/assets/logos/logo21.png">
+                <img width="65" src="/assets/logos/logo22.png">
+                <img width="65" src="/assets/logos/logo24.png">
+                <img width="65" src="/assets/logos/logo25.png"> <br><br>
+                <img width="65" src="/assets/logos/logo26.png"> <br><br><br>
+                <img width="65" src="/assets/logos/logo12.png">
+
+
+                
+
+              </div>
+            </div>
+          
+          </span>
+        </header>
+        <main class="content col col-sm-8 col-md-9 col-lg-10">
+          {{ content }}
+        </main>
+        <header class="header d-block d-sm-none col-6 col-sm-4 col-md-3 col-lg-2">
+          <!-- MOBILE -->
+          <script>
+             function openNav() {
+               document.getElementById("mySidenav").style.width = "12em";
+               document.getElementById("menuFloat").style.display = "none";
+
+             }
+
+             function closeNav() {
+               document.getElementById("mySidenav").style.width = "0";
+               document.getElementById("menuFloat").style.display = "block";
+
+             }
+            </script>
+
+           <section class="menuMob">
+              <a onclick="openNav()" >
+              <p id="menuFloat"><b>≡ </b> </p>
+              </a>
+           </section>
+
+          <div id="mySidenav" class="sidenav">
+             <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+             <a href='/sobre'>sobre</a>
+             <a href='/ficha-tecnica'>ficha técnica</a>
+             <a href='https://www.instagram.com/semana.integrada.cerrado/'target="_blank"> II Semana Integrada do Cerrado</a>
+
+          </div>
+
+          <span class="menu">
+            <p>PRODUÇÃO</p>
+            <div class="row" style=" width: 300px; ">
+              <div class="col">
+               <img width="100" src="/assets/logos/logo00.png">
+              </div>
+              <div class="col">
+                <br><br><br>
+                <a href="http://medialab.unb.br/" target="_blank"><img width="100" src="/assets/logos/logo03.svg"></a>
+              </div>
+            </div>
+            
+            <p>APOIO</p>
+
+            <div class="row" style=" width: 300px; ">
+              <div class="col">
+                <img width="65" src="/assets/logos/logo0.png">
+                <img width="65" src="/assets/logos/logo1.png"> <br><br><br>
+                <img width="65" src="/assets/logos/logo2.png"> <br><br><br>
+                <img width="65" src="/assets/logos/logo3.png"> <br><br><br>
+                <img width="65" src="/assets/logos/logo4.png"> 
+                <img width="65" src="/assets/logos/logo5.png"> <br><br>
+                <img width="65" src="/assets/logos/logo6.png"> <br><br>
+                <img width="65" src="/assets/logos/logo7.png"> <br><br><br>
+                <img width="65" src="/assets/logos/logo8.png">
+                <img width="65" src="/assets/logos/logo9.png"> 
+                <img width="65" src="/assets/logos/logo10.png">
+                <img width="65" src="/assets/logos/logo11.png">
+
+
+
+              </div>
+              <div class="col">
+                <img width="65" src="/assets/logos/logo13.png"> <br><br><br>
+                <img width="65" src="/assets/logos/logo14.png"> <br><br><br>
+                <img width="65" src="/assets/logos/logo15.png"> <br><br><br>
+                <img width="65" src="/assets/logos/logo16.png"> 
+                <img width="65" src="/assets/logos/logo17.png"> 
+                <img width="65" src="/assets/logos/logo18.png"> 
+                <img width="65" src="/assets/logos/logo19.png"> <br><br><br>
+                <img width="65" src="/assets/logos/logo20.png"> <br><br><br>
+                <img width="65" src="/assets/logos/logo21.png">
+                <img width="65" src="/assets/logos/logo22.png">
+                <img width="65" src="/assets/logos/logo24.png">
+                <img width="65" src="/assets/logos/logo25.png"> <br><br>
+                <img width="65" src="/assets/logos/logo26.png"> <br><br><br>
+                <img width="65" src="/assets/logos/logo12.png">
+
+
+              </div>
+
+
+            
+            </div>
+          </span>
+        </header>
       </div>
-    </div>
-
-    {% include footer.html %}
-
+      <div class="row">
+        <footer class="footer col-sm">2022 | Artur Cabral e Joenio Costa.</footer>
+      </div>
+    </section>
+    
+    <script>
+    $(function () {
+      $('[data-toggle="tooltip"]').tooltip()
+    })
+    </script>
   </body>
-
 </html>

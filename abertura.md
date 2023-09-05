@@ -1,7 +1,7 @@
 ---
+title: abertura
 layout: default
 ---
-
 <script>
 var target_date = new Date("jun 15, 2021").getTime(); 
 var dias, horas, minutos, segundos;
@@ -76,3 +76,5 @@ text-align: center;
   </div>
   </div>
 </div>
+
+

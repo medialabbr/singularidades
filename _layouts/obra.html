@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+<div class="obras">
+  <h2>{{ page.title }}</h2>
+  <ul class="nav">
+    <li class='ano-nome'>
+      <h3>&lt;{{ page.ano }}&gt; {{ page.artista }}</h3>
+      <h4>{{ page.tecnica }}</h4>
+    </li>
+    <li class="nav-item" data-toggle="tooltip" title="Ver {{ page.title }}">
+      <a class="nav-link active" id="default-tab" data-toggle="tab" href="#default" role="tab" aria-controls="default" aria-selected="true"></a>
+    </li>
+    <li class="nav-item" data-toggle="tooltip" title="Sobre a obra">
+      <a class="nav-link" id="sobre-tab" data-toggle="tab" href="#sobre" role="tab" aria-controls="sobre" aria-selected="false"></a>
+    </li>
+    
+    <li class="nav-item" data-toggle="tooltip" title="Sobre o artista">
+   
+      <a class="nav-link" id="artista-tab" data-toggle="tab" href="#duo-bio" role="tab" aria-controls="duo-bio" aria-selected="false"></a>
+    </li>
+  </ul>
+ 
+  <div class="tab-content">
+    <div class="tab-pane fade show active" id="default" role="tabpanel" aria-labelledby="default-tab">
+      <div class="aba">
+        <div class="wrap">
+                  {{ content }}
+        </div>
+      </div>
+    </div>
+    <div class="tab-pane fade" id="sobre" role="tabpanel" aria-labelledby="sobre-tab">
+      <div class="aba">
+
+          {% if page.video-descricao %}
+
+          <iframe  class="fyoutube" src="{{ page.video-descricao }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          {% endif %}
+
+          {% if page.texto-descricao %}
+          <p>{{ page.texto-descricao }}</p>
+          {% endif %}
+      </div>
+    </div>
+     <div class="tab-pane fade" id="duo-bio" role="tabpanel" aria-labelledby="duo-bio">
+      <div class="aba">
+        <p>{{ page.t-bio }}</p>
+        <br><br>
+        <p><a target="_blank" href="{{ page.l-bio }}"><b>Website/Portfólio</b></a>
+      </p>
+      </div>
+    </div>
+
+  </div>
+</div>
