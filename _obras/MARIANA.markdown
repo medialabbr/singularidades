@@ -10,8 +10,11 @@ ano: 2023
 tecnica: Video instala&#231;&#227;o
 ---
 
-<iframe width="832" height="468" src="https://www.youtube.com/embed/9oSdrSTEVD4" title="MARIANA BRUMADINHO RIO ACIMA  - Triz de Oliveira Paiva" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="/assets/videos/MARIANA.mp4"></iframe>
+</div>
+<br><br>
+
 
   <img src="/assets/obras/MARIANA.jpeg" alt="O corpo é bom para pensar" class="img-fluid d-block">
   `MARIANA BRUMADINHO RIO ACIMA`<br>  <br>

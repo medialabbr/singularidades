@@ -9,4 +9,7 @@ texto-descricao: Dois minutos de banho de Sol (2022) é um trabalho do coletivo 
 ano: 2022
 tecnica: videoperformance 
 ---
-<iframe width="832" height="468" src="https://www.youtube.com/embed/qFMg922GBME" title="Dois minutos de banho de Sol  - Luciana Arslan e Paulo Augusto coletivo Lupa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="/assets/videos/Dois.mp4"></iframe>
+</div>
+  `Dois minutos de banho de Sol`<br><br>

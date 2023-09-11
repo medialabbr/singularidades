@@ -9,4 +9,7 @@ texto-descricao: A natureza mostra a sua for&#231;a orgânica e determinada. O C
 ano: 2023
 tecnica: videoarte
 ---
-<iframe width="832" height="468" src="https://www.youtube.com/embed/KGQFbylf5JY" title="Liquido Vital - Patricia Siqueira" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="/assets/videos/Liquido.mp4"></iframe>
+</div>
+  `Líquido Vital`<br><br>

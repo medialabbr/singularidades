@@ -9,7 +9,9 @@ texto-descricao: A obra Metadiscurso, atrav&#233;s da t&#233;cnica de assemblage
 ano: 2020 - 2023
 tecnica: Objeto, Fotografia,Videoarte
 ---
-<iframe width="468" height="832" src="https://www.youtube.com/embed/hHi1pWf_iWE" title="Cerrado Glitch  - Guilherme Albuquerque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="/assets/videos/Metadiscurso.mp4"></iframe>
+</div>
   `Cerrado Glitch`<br>  <br>
 
   <img src="/assets/obras/Metadiscurso/1.jpeg" alt="O corpo é bom para pensar" class="img-fluid d-block">

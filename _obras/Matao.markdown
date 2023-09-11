@@ -9,4 +9,7 @@ texto-descricao: A proposta surgiu de uma busca por construir uma po&#233;tica v
 ano: 2023
 tecnica: videoarte
 ---
-<iframe width="832" height="468" src="https://www.youtube.com/embed/j01o_jf0DvY" title="Matão  - Veronica Lindquist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="/assets/videos/Matao.mp4"></iframe>
+</div>
+  `Matão`<br><br>

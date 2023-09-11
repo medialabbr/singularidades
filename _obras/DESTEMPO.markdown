@@ -10,4 +10,7 @@ ano: 2023
 tecnica: v&#237;deoarte
 ---
 
-<iframe width="832" height="468" src="https://www.youtube.com/embed/gPMYXRZsPzE" title="DESTEMPO   ENTRE ÁGUAS, MEMÓRIAS E PERTENCIMENTO - Mari Gemma De La Cruz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="/assets/videos/Destempo.mp4"></iframe>
+</div>
+  `DESTEMPO : ENTRE ÁGUAS, MEMÓRIAS E PERTENCIMENTO`<br><br>
