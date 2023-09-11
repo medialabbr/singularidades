@@ -12,8 +12,6 @@ tecnica: Fotografia digital e v&#237;deo
 
 <iframe width="832" height="468" src="https://www.youtube.com/embed/W-M4i9sQSs4" title="Ninhos  - Lynn Carone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-  `CerradoFênix`<br>  <br>
-
   <img src="/assets/obras/CerradoF/1.png" alt="CerradoFênix" class="img-fluid d-block">
   `CerradoFênix`<br>  <br>
   <img src="/assets/obras/CerradoF/2.jpeg" alt="Dança" class="img-fluid d-block">
