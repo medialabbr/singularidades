@@ -1,9 +1,9 @@
 ---
-title: abertura
-layout: default
+layout: abertura
 ---
+
 <script>
-var target_date = new Date("jun 15, 2021").getTime(); 
+var target_date = new Date("sep 11, 2023").getTime(); 
 var dias, horas, minutos, segundos;
 var regressiva = document.getElementById("regressiva");
 
@@ -47,7 +47,45 @@ margin: 5px;
 text-align: center;
 border-radius: 5px;
 padding: 5px;
-}
+}---
+title: Home
+layout: default
+pagination: 
+  enabled: true
+---
+<div class="container-fluid">
+  <div class="row">
+  {% for post in paginator.posts %}
+    <div class="card  col-lg-4 col-xl-3 border-0">
+      {% if post.thumbnail %}
+        <div class="box">
+          <img src="{{ post.thumbnail }}" /> 
+        </div>
+      {% else %}
+        <img src="" />
+      {% endif %}
+      <span>{{ post.artista }}</span>
+      <p>
+        <a style="text-decoration: none;" href="{{ BASE_PATH }}{{ post.url | remove: '/index.html' }}" class="shuf">
+          {{ post.title }}
+        </a>
+      </p>
+    </div>
+  {% endfor %}
+  </div>
+  <div class="row">
+    <div class="pagina col-sm-11">
+      {% if paginator.page_trail %}
+        {% for trail in paginator.page_trail %}
+          <li {% if page.url == trail.path %}{% endif %}>
+            <a href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}">{{ trail.num }}</a>.
+          </li>
+        {% endfor %}
+      {% endif %}
+    </div>
+  </div>
+</div>
+
 
 .legenda{
 height: 25px;
@@ -76,5 +114,3 @@ text-align: center;
   </div>
   </div>
 </div>
-
-

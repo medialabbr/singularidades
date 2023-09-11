@@ -1,0 +1,13 @@
+---
+layout: obra
+title: Bandeira sem cauda I &#40;s&#233;rie Bandeira sem cauda&#41;
+thumbnail: /assets/thumbnail/t-Bandeira.png
+artista: Manu Romeiro
+l-bio: https&#58;&#47;&#47;www.instagram.com&#47;romeiromanu&#47;
+t-bio: Manu Romeiro é artista multidisciplinar e arte educadora, radicada entre Portugal e Brasil. Através de diversas linguagens artísticas busca tocar as expressões do ser humano, cidade, natureza, num processo de encontro e partilha com o outro, com a sociedade e com o ambiente que a rodeia. <br>Finalizou o mestrado na área da pintura, pela Faculdade de Belas Artes da Universidade de Lisboa, bacharel e licenciatura pela Faculdade de Artes Visuais da UNICAMP, estudou Cenografia e Figurino na SP Escola de Teatro e foi artista pesquisadora do ateliê coletivo de gravura do Sesc Pompéia. <br>Exp&#245;e o seu trabalho pelo Brasil, Portugal, Estônia, Itália, Camboja e Coreia do Sul, participa de residências artísticas nacionais e internacionais e realiza a intervenção de desenho Retrato Falado desde 2014 por diversas regiões do Brasil e Portugal.Foi artista residente e membro do núcleo gestor do espaço coletivo Condomínio Cultural, co&#45;criou a sessão de modelo vivo “Desenho Vivo” na casa Jã, atuou como professora em escolas, colégios e ateliês públicos, colaborou como cenógrafa e figurinista para grupos de dança, teatro e cinema, entre outros. Atualmente é membro da Estamos a Pensar – Associação Cultural &#40;Oeiras&#41; pela qual atua como artista visual, colabora como cenógrafa para teatro e organiza coletivamente festivais de arte em Portugal. Tem colaborado voluntariamente para o Ciclo Selvagem de estudos para a transcri&#231;&#227;o de seu material.
+texto-descricao: Bandeira sem cauda &#233; uma s&#233;rie de impress&#245;es xilográficas de um Tamanduá Bandeira sem a sua bela calda, isto &#233;, amputado, machucado, exposto com a “bunda de fora”.  <br>Em Bandeira sem cauda I, há em stancil a repeti&#231;&#227;o de formas que se assemelham a estampas de papel de parede europeus, que se sobrep&#245;em à imagem rústica do tamanduá machucado, animal que representa tamb&#233;m todo o seu habitat natural, principalmente o Cerrado, em diálogo com quest&#245;es referentes ao Distrito Federal. <br>Assim, nessa s&#233;rie, cada de gravura explora o tema de maneira diferente e cont&#233;m narrativas onde convivem simultaneamente beleza e escassez, vida e morte, natureza, coloniza&#231;&#227;o, cultura, pol&#237;tica e território.
+ano: 2007
+tecnica: Xilogravura
+---
+
+<img src="/assets/obras/Bandeira.jpeg" alt="Bandeira sem cauda I (série Bandeira sem cauda)" class="img-fluid d-block">

@@ -20,7 +20,7 @@ font-style:normal}
 // Our variables
 
 $text-color:       #333333;
-$background-color: #fff;
+$background-color: #C5BEA1;
 
 body {
     background-color: $background-color;
@@ -109,7 +109,7 @@ a:hover {
 	width: 263px;
 	height: 195px;
 	margin: 40px 30px;
-	background-color: #fff;
+	background-color: #C5BEA1;
 	span {
 		text-transform: uppercase;
 		font-size: 13px;
@@ -121,6 +121,7 @@ a:hover {
 	a {
 		color: #48613d;
 		font-size: 10pt;
+		background: #C5BEA1;
 	}
 	a:hover {
 		background: #fff;
@@ -261,7 +262,7 @@ a:hover {
 
 	h3 {
 		font-size: 10pt;
-		color: #ccc;
+		color: #fff;
 	}
 	h2 {
 		font-size: 14px;
@@ -273,9 +274,9 @@ a:hover {
 		padding: 6px 2em;
 	}
 	h4 {
-		color: #fff;
+		color: #C5BEA1;
     	font-size: 9pt;
-    	background: #ccc;
+    	background: #004C00;
    		width: 100%;
     	margin-left: 2em;
 	}
@@ -398,5 +399,5 @@ a:hover {
   font-size: 50px;
 }
 code {
-    color: #939142;
+    color: #004C00;
 }

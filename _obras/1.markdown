@@ -1,0 +1,20 @@
+---
+layout: obra
+title: Aragem no Campo de Flores, Herbário, Ninho na Folhagem Seca,  Borboletas e Larvas Azuis
+thumbnail: /assets/thumbnail/t-1.png
+artista: Fau Martins
+l-bio: https&#58;&#47;&#47;www.instagram.com&#47;fau.martins.arte
+t-bio: Fau Martins, 1954. Vive e trabalha entre Goiás, DF e Bahia. Artista plástica, ilustradora e professora de Arte com forma&#231;&#227;o em Educa&#231;&#227;o Art&#237;stica&#47;Artes Plásticas pela FADM &#45;DF e especializa&#231;&#227;o em Arteterapia Junguiana pelo IJEP&#47;FACIS, iniciou sua carreira art&#237;stica na d&#233;cada de 1980, quando participou de várias exposi&#231;&#245;es, incluindo Sal&#245;es de Arte, com pr&#234;mios de aquisi&#231;&#227;o no DF e em outros estados. Integrou o Coletivo Via Sat&#233;lite da cidade do Gama&#47;DF , com o intuito de difundir o trabalho art&#237;stico realizado fora do eixo do Plano Piloto de Bras&#237;lia.Dedicou&#45;se prioritariamente à ilustra&#231;&#227;o e ao ensino da Arte em institui&#231;&#245;es públicas e privadas do DF, a partir dos anos 2000, retomando a carreira art&#237;stica em 2012. Atualmente integra o grupo Coletivo21, grupo de artistas de diversas regi&#245;es do pa&#237;s voltado para o compartilhamento de saberes e oportunidades. Sua pesquisa art&#237;stica consiste na busca de abertura de espa&#231;o à imagina&#231;&#227;o e à amplia&#231;&#227;o da capacidade perceptiva, com a cria&#231;&#227;o de imagens ficcionais em que elementos da ess&#234;ncia humana e elementos da natureza se fundem, em uma abordagem psicológica e arquet&#237;pica, em que se acolhe a express&#227;o de áreas subconscientes ou inconscientes, no sentido que Jung, Corbin e Carlos Castaneda preconizam.
+texto-descricao: Statement Os quatro trabalhos apresentados fazem parte da s&#233;rie “ Cora&#231;&#227;o de Cabôca&#58; Alma do Cachoeirinha” em que busco representar a memória de minha viv&#234;ncia recente na mata ciliar e no cerrado em torno do Córrego Cachoeirinha, na área rural de S&#227;o Sebasti&#227;o&#45; DF. Nesta s&#233;rie defendo a id&#233;ia da exist&#234;ncia de uma rela&#231;&#227;o de intera&#231;&#227;o entre os seres humanos e os outros seres e elementos da natureza, que se ativa por meio da abertura do cora&#231;&#227;o e estabelece uma comunica&#231;&#227;o decorrente da expans&#227;o dos sentidos comuns e da amplia&#231;&#227;o perceptiva inerentes ao acontecimento desta comunica&#231;&#227;o. A imagina&#231;&#227;o pessoal criativa, no trabalho art&#237;stico , faz a mescla entre o humano e os elementos visuais observados nesta experi&#234;ncia imersiva com a flora, as águas, os movimentos, as luzes e sombras, as cores e as formas.
+ano: 2022-2023
+tecnica: Desenho com interven&#231;&#227;o digital
+---
+
+  <img src="/assets/obras/1/1.jpeg" alt="Aragem no Campo de Flores" class="img-fluid d-block">
+  `Aragem no Campo de Flores`<br>  <br>
+  <img src="/assets/obras/1/2.jpeg" alt="Herbário" class="img-fluid d-block">
+  `Herbário`<br><br>
+  <img src="/assets/obras/1/3.jpeg" alt="Ninho na Folhagem Seca" class="img-fluid d-block">
+  `Ninho na Folhagem Seca`<br><br>
+    <img src="/assets/obras/1/4.jpeg" alt="Borboletas e Larvas Azuis" class="img-fluid d-block">
+  `Borboletas e Larvas Azuis`<br><br>
