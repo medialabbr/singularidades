@@ -9,5 +9,7 @@ texto-descricao: S&#233;rie de improvisos holofractais interativos de euFraktus_
 ano: 2021&#45;2023
 tecnica: Performance
 ---
-
-<iframe width="832" height="468" src="https://www.youtube.com/embed/sWJ0JBgBVOs?list=PLRnJyuIKhdkaEOtVM5WGVDemO5SMaboxr" title="Cerrado Sentionics X#1 by euFraktus X" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="/assets/videos/Cerrado.mp4"></iframe>
+</div>
+ <br><br> `Playlist completa em`<br>     `https://youtube.com/playlist?list=PLRnJyuIKhdkaEOtVM5WGVDemO5SMaboxr&si=dBbelmMjo-OMyG8K`
