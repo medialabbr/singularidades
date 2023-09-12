@@ -11,11 +11,11 @@ tecnica: Colagem
 ---
 
   
-  <img src="/assets/obras/Jogue/1.jpeg" alt="Cicatrizes" class="img-fluid d-block">
+  <img src="/assets/obras/Jogue/1.jpeg" alt="Não jogue este em vias públicas" class="img-fluid d-block">
   `Não jogue este em vias públicas`<br>  <br>
-  <img src="/assets/obras/Jogue/2.jpeg" alt="Cicatrizes" class="img-fluid d-block">
+  <img src="/assets/obras/Jogue/2.jpeg" alt="Tão perto, tão longe" class="img-fluid d-block">
   `Tão perto, tão longe`<br><br>
-  <img src="/assets/obras/Jogue/3.jpeg" alt="Cicatrizes" class="img-fluid d-block">
+  <img src="/assets/obras/Jogue/3.jpeg" alt="O amanhã que não deseja chegar" class="img-fluid d-block">
   `O amanhã que não deseja chegar`<br><br>
 
   

@@ -12,46 +12,5 @@ ano: 2023
 tecnica: fotografia 
 ---
 
-<div class="menu d-none d-sm-block">
-
-
-  <div id="imagens" class="carousel slide" data-ride="carousel">
-
-
-   <ul class="carousel-indicators">
-      <li data-target="#imagens" data-slide-to="0" class="active"></li>
-      <li data-target="#imagens" data-slide-to="1"></li>
-     
-
-
-   </ul>
-    
-   <div class="carousel-inner">
-      <div class="carousel-item active">
-        <img src="/assets/obras/Povos/1.png" alt="Povos do Cerrado" class="img-fluid mx-auto d-block">
-      </div>
-      <div class="carousel-item">
-        <img src="/assets/obras/Povos/2.png" alt="Povos do Cerrado" class="img-fluid mx-auto d-block">
-      </div>
-  </div>
- 
- 
-   <a class="carousel-control-prev" href="#imagens" data-slide="prev">
-      <span class="carousel-control-prev-icon"></span>
-    </a>
-    <a class="carousel-control-next" href="#imagens" data-slide="next">
-      <span class="carousel-control-next-icon"></span>
-    </a>
-  </div>
-<br>
-
-
-
-
-
-<div class="d-block d-sm-none">
+  <img src="/assets/obras/Povos/1.png" alt="Povos do Cerrado" class="img-fluid d-block">
   
-  <img src="/assets/obras/Povos/1.png" alt="Povos do Cerrado" class="img-fluid" width="35%"><br><br>
-  <img src="/assets/obras/Povos/2.png" alt="Povos do Cerrado" class="img-fluid" width="35%">
-  
-</div>
