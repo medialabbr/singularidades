@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Rebrota
+title: EmMeio#15
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rebrota.gitlab.io/" # the base hostname & protocol for your site
+url: "https://emmeio15.gitlab.io/" # the base hostname & protocol for your site
 
 # Outputting
 collections:
