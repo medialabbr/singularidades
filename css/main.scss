@@ -19,18 +19,11 @@ font-style:normal}
 
 // Our variables
 
-$text-color:       #333333;
-$background-color: #C5BEA1;
+$text-color:       #ffffff;
+$background-color: #000;
 
 body {
     background-color: $background-color;
-}
-a {
-	color:#48613d;
-}
-
-a:hover {
-	color:#48613d;
 }
 
 .link-round {
@@ -39,7 +32,7 @@ a:hover {
     border-width: 1px;
     border-radius: 30px;
     padding: 15px;
-    border-color: #48613d;
+    border-color: #78e864;
 }
 .main {
 	//display: grid;
@@ -50,7 +43,7 @@ a:hover {
 	font-family: 'Replica-Mono', monospace;
 	text-align: justify;
 	font-size: 14px;
-	color: #333;
+	color: #ffffff;
 
 }
 
@@ -69,20 +62,20 @@ a:hover {
 	}
 	a {
 		font-size: 13px;
-		color: #333;
+		color: #fff;
 		p {
 			font-size: 14px;
-			color: #48613d;
+			color: #78e864;
 			margin-bottom: 0;
 			text-decoration: none;
 		}
 		p:hover {
-			color: #48613d;
+			color: #78e864;
 		}
 	}
 	.mainsidebar:hover {
-  		background-color: #48613d;
-  		color: #fff;
+  		background-color: #78e864;
+  		color: #000;
   		text-decoration: none;
   	}
 
@@ -90,7 +83,7 @@ a:hover {
   		font-size: 10px;
   		p {
   			padding-bottom: 0;
-  			color: #48613d;
+  			color: #78e864;
 
   		}
   	}
@@ -109,19 +102,18 @@ a:hover {
 	width: 263px;
 	height: 195px;
 	margin: 40px 30px;
-	background-color: #C5BEA1;
+	background-color: black;
 	span {
 		text-transform: uppercase;
 		font-size: 13px;
-		color: #333;
+		color: #fff;
     writing-mode: vertical-rl;
     position: absolute;
     left: 278px;
 	}
 	a {
-		color: #48613d;
+		color: #78e864;
 		font-size: 10pt;
-		background: #C5BEA1;
 	}
 	a:hover {
 		background: #fff;
@@ -141,9 +133,9 @@ a:hover {
 .box {
 	height: 170px;
     width: 240px;
-/*    border-style: solid;
+    border-style: solid;
     border-width: 2px;
-    border-color: #48613d;*/
+    border-color: #78e864;
 
 }
 
@@ -207,11 +199,11 @@ a:hover {
 		padding-bottom: 4em;
 	}
 	p {
-		color: #666;
+		color: #ccc;
 		text-align: center;
 	}
 	b {
-		color: #666;
+		color: #ccc;
 	}
 	span {
 		font-size: 9.5pt;
@@ -245,7 +237,7 @@ a:hover {
 // OBRAS
 
 .obras {
-	padding: 2em 2em 0 4em;
+	padding: 2em 2em 0 0;
     width: 900px;
 
 
@@ -267,19 +259,13 @@ a:hover {
 	h2 {
 		font-size: 14px;
 		text-align: left;
-		color: #48613d;
+		color: #78e864;
 		text-transform: uppercase;
 	}
-	h2, h3, h4 {
+	h2, h3 {
 		padding: 6px 2em;
 	}
-	h4 {
-		color: #C5BEA1;
-    	font-size: 9pt;
-    	background: #004C00;
-   		width: 100%;
-    	margin-left: 2em;
-	}
+	
 
 	
 }
@@ -356,7 +342,7 @@ a:hover {
 /* MENU MOBILE */
 
 #menuFloat {
-	color: #48613d;
+	color: #1656A9;
     font-size: 3.7em;
 	padding-top: 3em;
 }
@@ -380,7 +366,7 @@ a:hover {
   overflow-x: hidden;
   transition: 0.5s;
   padding-top: 6em;
-  background: rgba(0,0,0, 0.8);
+  background: #000000f7;
 }
 
 .sidenav a {
@@ -388,16 +374,12 @@ a:hover {
   text-decoration: none;
   display: block;
   transition: 0.3s;
-  color: #fff;
 }
 
 .sidenav .closebtn {
   position: absolute;
-  color: #48613d;
+  color: #1656A9;
   top: 0;
   padding-top: 0px;
   font-size: 50px;
-}
-code {
-    color: #004C00;
 }
