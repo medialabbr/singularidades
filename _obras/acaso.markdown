@@ -1,0 +1,15 @@
+---
+layout: obra
+title: A.C.A.S.O. - Algoritmos Cruzando Aleatoriedades e Sublimando a Ordem
+thumbnail: /assets/thumbnail/t-acaso.png
+artista: M&#233;rcia de Assis Albuquerque
+l-bio: mercia.assis@gmail.com
+t-bio: Mercia Albuquerque &#233; mestra em Design pela Anhembi Morumbi e atualmente doutoranda no Programa de Doutorado e Mestrado em Design na mesma Universidade &#45; área de concentra&#231;&#227;o&#58; Design, Arte e Tecnologia. Quarenta anos de experi&#234;ncia atuando em empresas como programadora, analista de sistemas, instrutora e designer. Professora da Universidade Anhembi Morumbi principalmente nos cursos de Design Digital e Design Gráfico.
+texto-descricao:  Esta obra prop&#245;e a aplica&#231;&#227;o do lema dada&#237;sta &#34;A destrui&#231;&#227;o tamb&#233;m &#233; cria&#231;&#227;o&#34; como guia para a execu&#231;&#227;o de um projeto que visa simular a espontaneidade art&#237;stica do dada&#237;smo atrav&#233;s de algoritmos. O dada&#237;smo surgiu como uma resposta à viol&#234;ncia da Primeira Guerra Mundial, onde artistas utilizaram recursos musicais, literários e visuais para desafiar a lógica, o capitalismo e o racionalismo. Os dada&#237;stas acreditavam na interdepend&#234;ncia entre a raz&#227;o e a anti&#45;raz&#227;o, bem como entre o sentido e o absurdo, a consci&#234;ncia e o inconsciente, o planejamento e o acaso, reconhecendo esses elementos como partes integrantes de um todo. Neste contexto e considerando as discuss&#245;es sobre a Intelig&#234;ncia Artificial, a obra consiste em explorar um banco de dados constru&#237;do com base em pensamentos lógicos e racionais, utilizando algoritmos que simulem a espontaneidade art&#237;stica do dada&#237;smo. Os resultados obtidos seguir&#227;o o conceito de colagem, t&#233;cnica frequentemente utilizada pelos dada&#237;stas, e as escolhas dos elementos gráficos, sonoros e dos próprios algoritmos ser&#227;o guiadas pelo acaso. Ser&#227;o disponibilizadas ferramentas interativas para que os usuários possam fazer escolhas baseadas na arte tradicional. Essas escolhas provocar&#227;o rea&#231;&#245;es do sistema &#40;IA&#45;simulada&#41;, levando a cruzamentos aleatórios de dados e algoritmos, resultando na cria&#231;&#227;o de uma &#34;ARTE&#34; artificial no estilo do dada&#237;smo. Essa abordagem tem como objetivo desafiar e destruir as expectativas, como se a intelig&#234;ncia artificial se rebelasse contra as regras estabelecidas e reivindicasse a liberdade de cria&#231;&#227;o concedida aos artistas humanos, contrariando as ordens e ignorando as sugest&#245;es de entrada fugindo, assim, dos resultados óbvios esperados.
+ano: 2023
+tecnica: WebArte &#40;design e arte computacional generativa&#41;
+---
+
+<iframe class="frame" scrolling="no" src="https://crisduarte.github.io/sete-ervas/"></iframe>
+<br>
+<a href="https://crisduarte.github.io/sete-ervas/" target="_blank">TELA INTEIRA</a>

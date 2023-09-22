@@ -1,0 +1,15 @@
+---
+layout: obra
+title: 7 herbs &#40;7 ervas&#41;.
+thumbnail: /assets/thumbnail/t-7.png
+artista: Cristiane Duarte, Rolf Simoes e Rosangela Leotte.
+l-bio: cristiane.duarte@unesp.br
+t-bio: Rosangella Leote &#40;SP&#47;BR&#41; &#233; artista&#47;pesquisadora em Arte&#47;Ci&#234;ncia&#47;Tecnologia; Bolsa de Produtividade em Pesquisa &#40;CNPq_B2&#41; pesquisando arte e sustentabilidade com impress&#227;o 3D; Pós&#45;doutora &#40;UAb&#45;PT – FAPESP&#41;; Doutora em Ci&#234;ncias da Comunica&#231;&#227;o &#40;USP&#47;BR – CNPq&#41;.Trabalha em Artemedia envolvendo realidade virtual, instala&#231;&#245;es, esculturas e objetos interativos, “tecnoperformances” e outros. É l&#237;der do grupo de pesquisa GIIP &#40;IA&#47;Unesp&#41;.
+texto-descricao: #34;7 Herbs&#34; &#233; uma obra de arte interativa baseada na web que está em processo, 7 Herbs evoca elementos da cultura popular brasileira. Ela se refere a uma cren&#231;a m&#237;stica de que algumas plantas podem trazer prote&#231;&#227;o para o lar, a alma e o corpo. Usando intelig&#234;ncia artificial, a obra de arte &#233; capaz de detectar os nomes das plantas a partir da fala do interagente e gerar uma imagem exclusiva da planta reconhecida. O trabalho usa o son para criar representa&#231;&#245;es das imagens das plantas. A obra utiliza um banco de dados de linguagem natura para evocar as imagens das sete ervas protetoras&#58; alecrim, manjeric&#227;o, espada&#45;de&#45;s&#227;o&#45;jorge, arruda, guin&#233;, pimenta e comigo&#45;ningu&#233;m&#45;pode, al&#233;m de urtiga. As sete ervas s&#227;o consideradas pela tradi&#231;&#227;o da umbanda, misturadas com o conhecimento ind&#237;gena e o sincretismo brasileiro, como um escudo protetor para a alma e a casa do indiv&#237;duo. A urtiga &#233; uma erva comum na maior parte do Brasil, e algumas esp&#233;cies s&#227;o conhecidas por sua propriedade urticante&#58; enquanto viva, ela produz substâncias tóxicas que causam irrita&#231;&#227;o, queima&#231;&#227;o e coceira na pele. No entanto, quando cozida e transformada em chá, &#233; ben&#233;fica para o organismo, possuindo inclusive propriedades antioxidantes que est&#227;o relacionadas à preserva&#231;&#227;o da saúde. As sete ervas para a alma e a erva para o corpo s&#227;o reinterpretadas aqui pela gera&#231;&#227;o mágica de suas respectivas plantas a partir de uma IA que oferece representa&#231;&#245;es a partir do nome de cada erva. Os resultados visuais s&#227;o produzidos a partir de um sistema de part&#237;culas guiado por uma IA e um campo de fluxos gerado sob o ru&#237;do de Perlin. O trabalho foi desenvolvido no framework p5js &#40;ambiente de processamento para a Web&#41;. Dessa forma, &#34;7 Herbs&#34; envolve a intelig&#234;ncia natural da vida, em sua complexidade sist&#234;mica, n&#227;o separando o ser humano de outros seres do mundo que envolvem experi&#234;ncias espirituais, afetivas, emocionais e cosmogônicas.
+ano: 2023
+tecnica: arte interativa
+---
+
+<iframe class="frame" scrolling="no" src="https://crisduarte.github.io/sete-ervas/"></iframe>
+<br>
+<a href="https://crisduarte.github.io/sete-ervas/" target="_blank">TELA INTEIRA</a>
