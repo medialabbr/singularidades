@@ -10,4 +10,6 @@ ano: 2020&#45;22
 tecnica: Anima&#231;&#227;o 2d e stopmotion.
 ---
 
-<img src="/assets/obras/marta.jpeg" alt="Alma em Cinzas" class="img-fluid d-block">
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="http://medialab.unb.br/images/videos/multiple_faces_of_the_void_720p.mp4"></iframe>
+</div>

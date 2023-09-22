@@ -10,4 +10,7 @@ ano: 2023
 tecnica: Fotografia, pintura e realidade aumentada
 ---
 
-<img src="/assets/obras/marta.jpeg" alt="Alma em Cinzas" class="img-fluid d-block">
+<img src="/assets/obras/Bde/3.JPG" alt="" class="img-fluid d-block">
+<img src="/assets/obras/Bde/2.JPG" alt="" class="img-fluid d-block">
+<img src="/assets/obras/Bde/1.JPG" alt="" class="img-fluid d-block">
+

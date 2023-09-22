@@ -1,7 +1,7 @@
 ---
 layout: obra
-title: videoarte Múltiplas Faces do Vazio
-thumbnail: /assets/thumbnail/t-alma.png
+title: Múltiplas Faces do Vazio
+thumbnail: /assets/thumbnail/t-videoarte.png
 artista: Flávio Freire Carvalho
 l-bio: mailto&#58;flvz.lab@gmail.com
 t-bio: Flávio Carvalho &#233; m&#237;dia&#45;artista, curador de arte, designer e professor que vive e trabalha em Curitiba, Brasil. É mestrando em Comunica&#231;&#227;o e Linguagens &#45; Cinema e Audiovisual na Universidade Tuiuti do Paraná UTP, Bolsista&#47;taxa PROSUP&#47;CAPES. Estudou especializa&#231;&#227;o em Interdisciplinar de Artes e Ensino das Artes na Universidade Estadual do Paraná UNESPAR&#47;FAP em 2012. Desde ent&#227;o, exibiu coletivamente em Berlim, Paris, Nova York, Madrid, Toronto, Curitiba, entre outras cidades. Em 2017&#47;18 foi o curador da exposi&#231;&#227;o Subli_me da The Wrong – New Digital Art Biennale em Curitiba. Integrou em 2018 a curadoria da Bienal Internacional de Arte de Curitiba ganhando o Pr&#234;mio Jovens Curadores. Em 2020 apresentou Laniakea &#47; The Wrong &#45; New Digital Art Biennale em Curitiba. Atualmente &#233; curador convidado da Bienal Internacional de Arte de Curitiba. Membro integrante do NPPA &#40;Núcleo de Pesquisa e Produ&#231;&#227;o Audiovisual&#41; e do GP CIC&#47;CIAC e professor da Escola de Belas Artes da PUC&#45;PR.
@@ -10,4 +10,6 @@ ano: 2023
 tecnica: Videoarte
 ---
 
-<img src="/assets/obras/marta.jpeg" alt="Alma em Cinzas" class="img-fluid d-block">
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="http://medialab.unb.br/images/videos/multiple_faces_of_the_void_720p.mp4"></iframe>
+</div>
