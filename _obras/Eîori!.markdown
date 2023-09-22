@@ -1,7 +1,7 @@
 ---
 layout: obra
 title: Eîori! – um horizonte existencial
-thumbnail: /assets/thumbnail/t-alma.png
+thumbnail: /assets/thumbnail/t-Eîori!.png
 artista: Kelly Silva de Oliveira
 l-bio: kellysol2011@gmail.com
 t-bio: Kelly de Oliveira, mestranda em Design, pela Universidade Anhembi Morumbi&#47;SP e bacharel em Artes Visuais pela ECA&#45;USP &#40;2022&#41;. Por meio de pesquisa teórica e produ&#231;&#227;o audiovisual, busca aproximar&#45;se das cosmovis&#245;es dos povos originários e das suas po&#233;ticas sobre a exist&#234;ncia
@@ -11,5 +11,5 @@ tecnica: Anima&#231;&#227;o 2d e stopmotion.
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="http://medialab.unb.br/images/videos/multiple_faces_of_the_void_720p.mp4"></iframe>
+    <iframe class="embed-responsive-item" src="http://medialab.unb.br/images/videos/Eiori_um_horizonte_existencial.mp4"></iframe>
 </div>

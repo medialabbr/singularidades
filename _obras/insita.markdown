@@ -1,7 +1,7 @@
 ---
 layout: obra
 title: Incita&#231;&#245;es #01
-thumbnail: /assets/thumbnail/t-alma.png
+thumbnail: /assets/thumbnail/t-insita.png
 artista: Denise Camargo
 l-bio: denise.cfcamargo@gmail.com
 t-bio: Denise Camargo &#233; artista visual, atua em ensino, pesquisa, curadoria e gest&#227;o de projetos art&#237;sticos e culturais. A escrita e as imagens fotográficas s&#227;o mat&#233;ria para sua produ&#231;&#227;o. É Doutora em Artes &#40;IA&#47;Unicamp&#41; e Mestra em Ci&#234;ncias da Comunica&#231;&#227;o &#40;ECA&#47;USP&#41; e docente na gradua&#231;&#227;o do Departamento de Artes Visuais&#47;Instituto de Artes&#47;Universidade de Bras&#237;lia e do Programa de Pós&#45;gradua&#231;&#227;o em Artes Visuais.
@@ -10,4 +10,8 @@ ano: 2023
 tecnica: V&#237;deo
 ---
 
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://medialab.unb.br/images/videos/DeniseCamargo_Incitacoes_2023_copy.mov"></iframe>
+</div>
 <img src="/assets/obras/marta.jpeg" alt="Alma em Cinzas" class="img-fluid d-block">

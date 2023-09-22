@@ -1,7 +1,7 @@
 ---
 layout: obra
 title: Cidade Perec&#237;vel 
-thumbnail: /assets/thumbnail/t-alma.png
+thumbnail: /assets/thumbnail/t-Cidade.png
 artista: Jarda, MediaLab &#47; UNIFESSPA,Coordena&#231;&#227;o&#58; Teófilo Augusto da Silva
 l-bio: professor@teoaugusto.com.br
 l-bio: Jarda, Artista visual, estudante do curso de Lic. em Artes Visuais na UNIFESSPA e Moradanovense &#40;morador do núcleo Morada Nova, localizado na cidade de Marabá&#45;PA&#41;. Sente proximidade com a fotografia e usa ela para expressar a est&#233;tica do cotidiano do núcleo em que vive, afim desvalorizar um dos bairros distantes do centro da cidade.<br>Teófilo Augusto da Silva, Artista, Professor e Pesquisador. Doutor em Artes Visuais &#40;Arte e Tecnologia&#41; pela UnB. Coordenador Media Lab&#47;Unifesspa.
@@ -10,4 +10,13 @@ ano: 2023
 tecnica: Fotografia digital com realidade aumentada.
 ---
 
-<img src="/assets/obras/marta.jpeg" alt="Alma em Cinzas" class="img-fluid d-block">
+<img src="/assets/obras/jarda/1.jpeg" alt="Cidade Perecível" class="img-fluid d-block">
+<img src="/assets/obras/jarda/2.jpeg" alt="Cidade Perecível" class="img-fluid d-block">
+<img src="/assets/obras/jarda/3.jpeg" alt="Cidade Perecível" class="img-fluid d-block">
+<img src="/assets/obras/jarda/4.jpeg" alt="Cidade Perecível" class="img-fluid d-block">
+<img src="/assets/obras/jarda/5.jpeg" alt="Cidade Perecível" class="img-fluid d-block">
+<img src="/assets/obras/jarda/6.jpeg" alt="Cidade Perecível" class="img-fluid d-block">
+<img src="/assets/obras/jarda/7.jpeg" alt="Cidade Perecível" class="img-fluid d-block">
+<img src="/assets/obras/jarda/8.jpeg" alt="Cidade Perecível" class="img-fluid d-block">
+
+

@@ -1,7 +1,7 @@
 ---
 layout: obra
 title: Lúcido e Cerrado
-thumbnail: /assets/thumbnail/t-alma.png
+thumbnail: /assets/thumbnail/t-Lucido.png
 artista: Bia Costa
 l-bio: Bia Costa
  Mestranda em Design, Arte e Tecnologia n a Universidade Anhembi Morumbi e graduada na Escola de Comunica&#231;&#227;o e Artes da USP.
@@ -10,4 +10,9 @@ ano: 2023
 tecnica: Design arte generativa
 ---
 
-<img src="/assets/obras/marta.jpeg" alt="Alma em Cinzas" class="img-fluid d-block">
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="http://medialab.unb.br/images/videos/Cerrado.mp4"></iframe>
+</div>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="http://medialab.unb.br/images/videos/Lucido.mp4"></iframe>
+</div>

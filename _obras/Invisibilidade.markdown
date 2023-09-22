@@ -1,7 +1,7 @@
 ---
 layout: obra
 title: Invisibilidade artr&#237;tica
-thumbnail: /assets/thumbnail/t-alma.png
+thumbnail: /assets/thumbnail/t-ONDAS.png
 artista: Rosangella Leote
 l-bio: rosangellaleote@gmail.com
 t-bio: Rosangella Leote &#40;SP&#47;BR&#41; &#233; artista&#47;pesquisadora em Arte&#47;Ci&#234;ncia&#47;Tecnologia; Bolsa de Produtividade em Pesquisa &#40;CNPq_B2&#41; pesquisando arte e sustentabilidade com impress&#227;o 3D; Pós&#45;doutora &#40;UAb&#45;PT – FAPESP&#41;; Doutora em Ci&#234;ncias da Comunica&#231;&#227;o &#40;USP&#47;BR – CNPq&#41;.Trabalha em Artemedia envolvendo realidade virtual, instala&#231;&#245;es, esculturas e objetos interativos, “tecnoperformances” e outros. É l&#237;der do grupo de pesquisa GIIP &#40;IA&#47;Unesp&#41;.
