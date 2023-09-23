@@ -13,4 +13,4 @@ tecnica: Webarte&#40;game art&#41;
 
 <iframe class="frame" scrolling="no" src="http://projetosacademicos.coisasemdesign.com.br/proj01/"></iframe>
 <br>
-<a href="http://projetosacademicos.coisasemdesign.com.br/proj01/" target="_blank">TELA INTEIRA</a>
+<a href="https://projetosacademicos.coisasemdesign.com.br/proj01/" target="_blank">TELA INTEIRA</a>

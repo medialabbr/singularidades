@@ -9,7 +9,4 @@ texto-descricao:  No livro A queda do c&#233;u&#58; palavras de um xam&#227; yan
 ano: 2020&#45;22
 tecnica: Anima&#231;&#227;o 2d e stopmotion.
 ---
-
-<div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="http://medialab.unb.br/images/videos/Eiori_um_horizonte_existencial.mp4"></iframe>
-</div>
+<iframe width="966" height="543" src="https://www.youtube.com/embed/9h5EfV43hws" title="EÎORI! – UM HORIZONTE EXISTENCIAL  - Kelly Silva de Oliveira" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

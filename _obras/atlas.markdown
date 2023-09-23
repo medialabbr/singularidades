@@ -10,6 +10,4 @@ ano: 2023
 tecnica: V&#237;deo e arte digital.
 ---
 
-<div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="http://medialab.unb.br/images/videos/longhi_videoatlas_futuros_urbanos_001.mp4"></iframe>
-</div>
+<iframe width="966" height="543" src="https://www.youtube.com/embed/IZiJLBhKgfY" title="VÍDEO-ATLAS DE FUTUROS URBANOS: A SURDEZ DO IMAGINÁRIO - Fernando Longhi, Ribs Seixas." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

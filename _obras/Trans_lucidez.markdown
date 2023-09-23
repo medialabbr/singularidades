@@ -8,7 +8,4 @@ texto-descricao: 74 pares de desenhos exibidos um v&#237;deo de 1 min. e 13 seg.
 ano: 2020&#45;2023
 tecnica: . Interven&#231;&#227;o&#58;
 ---
-<div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="http://medialab.unb.br/images/videos/TRANS_LUCIDEZ.mp4"></iframe>
-</div>
-
+<iframe width="966" height="543" src="https://www.youtube.com/embed/FTCfs5oo4gE" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

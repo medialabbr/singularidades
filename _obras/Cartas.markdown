@@ -8,3 +8,6 @@ texto-descricao: Um jogo de cartas performático que prop&#245;e a retirada das 
 ano: 2023
 tecnica: Game&#45;arte
 ---
+<iframe class="frame" scrolling="no" src="/assets/obras/jogo-carta/"></iframe>
+<br>
+<a href="/assets/obras/jogo-carta/" target="_blank">TELA INTEIRA</a>

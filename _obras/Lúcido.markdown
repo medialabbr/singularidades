@@ -10,9 +10,6 @@ ano: 2023
 tecnica: Design arte generativa
 ---
 
-<div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="http://medialab.unb.br/images/videos/Cerrado.mp4"></iframe>
-</div>
-<div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="http://medialab.unb.br/images/videos/Lucido.mp4"></iframe>
-</div>
+<iframe width="372" height="662" src="https://www.youtube.com/embed/Ckyxu2ib4xY" title="LÚCIDO - Bia Costa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br><br>
+<iframe width="372" height="662" src="https://www.youtube.com/embed/1apkfCjDOcY" title="Cerrado Bia Costa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

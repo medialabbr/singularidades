@@ -9,6 +9,4 @@ ano: 2023
 tecnica: Intelig&#234;ncia artificial
 ---
 
-<div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="http://medialab.unb.br/images/videos/cavalo-banana-coco-natureza2.mov"></iframe>
-</div>
+<iframe width="765" height="574" src="https://www.youtube.com/embed/n3mgKDF1KUQ" title="CAVALO, COCO, BANANA, ÁRVORE, PESSOAS, ARTE - Camille, Cora, Revolution, Stable Diffusion e Suzete." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

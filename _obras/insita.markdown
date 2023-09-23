@@ -9,9 +9,4 @@ texto-descricao: S&#233;rie de imagens geradas por intelig&#234;ncia artificial 
 ano: 2023
 tecnica: V&#237;deo
 ---
-
-
-<div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://medialab.unb.br/images/videos/DeniseCamargo_Incitacoes_2023_copy.mov"></iframe>
-</div>
-<img src="/assets/obras/marta.jpeg" alt="Alma em Cinzas" class="img-fluid d-block">
+<iframe width="966" height="543" src="https://www.youtube.com/embed/XNtlXFcXtss" title="Incitações- Denise Camargo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

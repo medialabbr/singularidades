@@ -10,9 +10,5 @@ ano: 2023
 tecnica: Videoperformance
 ---
 
-<div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="http://medialab.unb.br/images/videos/essencial_part_1.mp4"></iframe>
-</div>
-<div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="http://medialab.unb.br/images/videos/essencial_part_2.mp4"></iframe>
-</div>
+<iframe width="966" height="543" src="https://www.youtube.com/embed/L1orxiXVSwk" title="ESSENCIAL - Rafa Cardozo, MediaLab / UNIFESSPA, Coordenação: Teófilo Augusto da Silva" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="966" height="543" src="https://www.youtube.com/embed/gurNnBGeIvY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
