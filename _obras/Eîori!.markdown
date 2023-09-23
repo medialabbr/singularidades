@@ -1,7 +1,7 @@
 ---
 layout: obra
 title: Eîori! – um horizonte existencial
-thumbnail: /assets/thumbnail/t-Eîori!.png
+thumbnail: /assets/thumbnail/t-Ei.png
 artista: Kelly Silva de Oliveira
 l-bio: kellysol2011@gmail.com
 t-bio: Kelly de Oliveira, mestranda em Design, pela Universidade Anhembi Morumbi&#47;SP e bacharel em Artes Visuais pela ECA&#45;USP &#40;2022&#41;. Por meio de pesquisa teórica e produ&#231;&#227;o audiovisual, busca aproximar&#45;se das cosmovis&#245;es dos povos originários e das suas po&#233;ticas sobre a exist&#234;ncia
