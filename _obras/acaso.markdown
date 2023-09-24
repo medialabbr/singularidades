@@ -10,6 +10,6 @@ ano: 2023
 tecnica: WebArte &#40;design e arte computacional generativa&#41;
 ---
 
-<iframe class="frame" scrolling="no" src="https://crisduarte.github.io/sete-ervas/"></iframe>
+<iframe class="frame" scrolling="no" src="https://art-links.com.br/acaso"></iframe>
 <br>
-<a href="https://crisduarte.github.io/sete-ervas/" target="_blank">TELA INTEIRA</a>
+<a href="https://art-links.com.br/acaso" target="_blank">TELA INTEIRA</a>
