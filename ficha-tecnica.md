@@ -11,7 +11,7 @@ layout: default
 </p>
   
   <p><b>Assistentes de produção técnica e executiva:</b> Tainá Luize Martins Ramos, Lynn Carone, Nycacia Delmondes e Angélica Éfrem</p>
-    <p><b>Apoio Institucional:</b> PPGAV/UnB (Sabrina Strasser e Ariel)</p>
+    <p><b>Apoio Institucional:</b> PPGAV/UnB (Sabrina Strasser e Ariel Machado)</p>
 
 
   <p><b><a href="mailto:medialabunbdf@gmail.com">Fale com a gente ;)</a></b></p>
