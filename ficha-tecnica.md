@@ -35,7 +35,7 @@ Grupo de Pesquisa “Artes em Tecnologias Emergentes” FAAC Unesp Bauru<br>
 Fabio FON <br>
 Aquiles Burlamaqui e Laurita Salles<br>
 Helena Hernández Acuaviva e Agda Carvalho<br>
-Pirá Arte<br>
+Mateus Pelanda e Bianca Orsso<br>
 Bruna Mazzotti e José Loures<br>
 Alessandro Camilo e Sergio Nesteriuk<br>
 Mércia de Assis Albuquerque<br>
