@@ -20,7 +20,7 @@ font-style:normal}
 // Our variables
 
 $text-color:       #ffffff;
-$background-color: #000;
+$background-color: #101015;
 
 body {
     background-color: $background-color;
@@ -32,7 +32,7 @@ body {
     border-width: 1px;
     border-radius: 30px;
     padding: 15px;
-    border-color: #4FF39D;
+    border-color: #DC1793;
 }
 .main {
 	//display: grid;
@@ -65,17 +65,17 @@ body {
 		color: #fff;
 		p {
 			font-size: 14px;
-			color: #4FF39D;
+			color: #DC1793;
 			margin-bottom: 0;
 			text-decoration: none;
 		}
 		p:hover {
-			color: #4FF39D;
+			color: #DC1793;
 		}
 	}
 	.mainsidebar:hover {
-  		background-color: #4FF39D;
-  		color: #000;
+  		background-color: #DC1793;
+  		color: #fff;
   		text-decoration: none;
   	}
 
@@ -83,7 +83,7 @@ body {
   		font-size: 10px;
   		p {
   			padding-bottom: 0;
-  			color: #4FF39D;
+  			color: #DC1793;
 
   		}
   	}
@@ -102,7 +102,7 @@ body {
 	width: 263px;
 	height: 195px;
 	margin: 40px 30px;
-	background-color: black;
+	background-color: #101015;
 	span {
 		text-transform: uppercase;
 		font-size: 13px;
@@ -112,16 +112,16 @@ body {
     left: 278px;
 	}
 	a {
-		color: #4FF39D;
+		color: #DC1793;
 		font-size: 10pt;
 	}
 	a:hover {
-		background: #4FF39D;
-		color: #000;
+		background: #DC1793;
+		color: #fff;
 	}
 	p {
 	  margin: 0;
-	  position: absolute;
+	  position: absolute; 
 	  bottom: -22px;
 	}
 	img {
@@ -134,6 +134,7 @@ body {
 .box {
 	height: 170px;
     width: 240px;
+	border: 1px solid #DC1793;
 }
 
 .footer {
@@ -256,7 +257,7 @@ body {
 	h2 {
 		font-size: 14px;
 		text-align: left;
-		color: #4FF39D;
+		color: #DC1793;
 		text-transform: uppercase;
 	}
 	h2, h3 {
@@ -339,7 +340,7 @@ body {
 /* MENU MOBILE */
 
 #menuFloat {
-	color: #4FF39D;
+	color: #DC1793;
     font-size: 3.7em;
 	padding-top: 3em;
 }
@@ -375,8 +376,12 @@ body {
 
 .sidenav .closebtn {
   position: absolute;
-  color: #4FF39D;
+  color: #DC1793;
   top: 0;
   padding-top: 0px;
   font-size: 50px;
+}
+
+.destaque{
+	color: #DC1793;
 }

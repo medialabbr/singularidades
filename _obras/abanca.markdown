@@ -1,7 +1,7 @@
 ---
 layout: obra
 title: A&#40;O&#41; banca&#40;o&#41;” sempre ganha!
-thumbnail: /assets/thumbnail/t-abanca.png
+thumbnail: /assets/thumbnail/Foto2.png
 artista: Alessandro Camilo e Sergio Nesteriuk
 l-bio: alessandrocammilo@gmail.com
 t-bio: Pesquisador dedicado a aprimorar o conhecimento do design com a intera&#231;&#227;o digital. Extenso conhecimento em Design, EAD e Tecnologia afins. Mestre e Doutorando em Design pela UAM, com 28 anos de experi&#234;ncia profissional.
@@ -11,6 +11,6 @@ tecnica: Webarte&#40;game art&#41;
 ---
 
 
-<iframe class="frame" scrolling="no" src="http://projetosacademicos.coisasemdesign.com.br/proj01/"></iframe>
+<iframe class="frame" scrolling="no" src="https://www.youtube.com/embed/F_KK1yX5THc"></iframe>
 <br>
-<a href="https://projetosacademicos.coisasemdesign.com.br/proj01/" target="_blank">TELA INTEIRA</a>
+<!-- <a href="https://projetosacademicos.coisasemdesign.com.br/proj01/" target="_blank">TELA INTEIRA</a> -->

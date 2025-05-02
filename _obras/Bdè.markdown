@@ -1,7 +1,7 @@
 ---
 layout: obra
 title: Bdè tmyrà &#45; Renova&#231;&#227;o
-thumbnail: /assets/thumbnail/t-bde.png
+thumbnail: /assets/thumbnail/Foto2.png
 artista: Darlith Cardoso Silva, Giovanny Lucas Silva Nascimento, Rog&#233;rio Radiore Karaja, MediaLab &#47; UNIFESSPA, Coordena&#231;&#227;o Teófilo Augusto da Silva
 l-bio: professor@teoaugusto.com.br
 t-bio: Media Lab&#47;Unifesspa&#58; laboratório interdisciplinar e núcleo de pesquisa e extens&#227;o da Universidade Federal do Sul e Sudeste do Pará &#45; Unifesspa. Fundado em 2016, ingressou imediatamente na Rede Media Lab&#47;BR, atuando assim para a pesquisa teórico&#45;prática envolvendo a rela&#231;&#227;o entre Arte, Ci&#234;ncia e Tecnologia. Teófilo Augusto da Silva, Artista, Professor e Pesquisador. Doutor em Artes Visuais &#40;Arte e Tecnologia&#41; pela UnB. Coordenador Media Lab&#47;Unifesspa.
@@ -10,7 +10,4 @@ ano: 2023
 tecnica: Fotografia, pintura e realidade aumentada
 ---
 
-<img src="/assets/obras/Bde/3.JPG" alt="" class="img-fluid d-block">
-<img src="/assets/obras/Bde/2.JPG" alt="" class="img-fluid d-block">
-<img src="/assets/obras/Bde/1.JPG" alt="" class="img-fluid d-block">
-
+<iframe class="frame" scrolling="no" src="https://www.youtube.com/embed/F_KK1yX5THc"></iframe>

@@ -1,7 +1,7 @@
 ---
 layout: obra
 title: A.C.A.S.O. - Algoritmos Cruzando Aleatoriedades e Sublimando a Ordem
-thumbnail: /assets/thumbnail/t-acaso.png
+thumbnail: /assets/thumbnail/Foto3.png
 artista: M&#233;rcia de Assis Albuquerque
 l-bio: mercia.assis@gmail.com
 t-bio: Mercia Albuquerque &#233; mestra em Design pela Anhembi Morumbi e atualmente doutoranda no Programa de Doutorado e Mestrado em Design na mesma Universidade &#45; área de concentra&#231;&#227;o&#58; Design, Arte e Tecnologia. Quarenta anos de experi&#234;ncia atuando em empresas como programadora, analista de sistemas, instrutora e designer. Professora da Universidade Anhembi Morumbi principalmente nos cursos de Design Digital e Design Gráfico.
@@ -10,6 +10,6 @@ ano: 2023
 tecnica: WebArte &#40;design e arte computacional generativa&#41;
 ---
 
-<iframe class="frame" scrolling="no" src="https://art-links.com.br/acaso"></iframe>
+<iframe class="frame" scrolling="no" src="https://www.youtube.com/embed/fxJaLhwcJis"></iframe>
 <br>
-<a href="https://art-links.com.br/acaso" target="_blank">TELA INTEIRA</a>
+<!-- <a href="https://art-links.com.br/acaso" target="_blank">TELA INTEIRA</a> -->

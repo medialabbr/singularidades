@@ -1,7 +1,7 @@
 ---
 layout: obra
 title: V&#237;deo&#45;Atlas de Futuros Urbanos&#58; a Surdez do Imaginário
-thumbnail: /assets/thumbnail/t-atlas.png
+thumbnail: /assets/thumbnail/Foto4.png
 artista: Fernando Longhi, Ribs+Seixas
 l-bio: longhi@usp.br
 t-bio: Fernando Longhi &#233; Arquiteto e Urbanista pela FAU&#45;UnB e atualmente &#233; mestrando e pesquisador da Universidade de S&#227;o Paulo &#40;FAUUSP&#47;IEA&#45;USP&#41;, onde estuda a converg&#234;ncia entre tecnologias de intelig&#234;ncia e cultura digital em escala urbana. RIBS+SEIXAS &#233; um duo criativo formado por Pedro Ribs e Lucas Seixas dedicado ao design e artes visuais, atuando na dire&#231;&#227;o de arte, motion design e anima&#231;&#227;o. Com exerc&#237;cio multidisciplinar, realizam campanhas, documentários e instala&#231;&#245;es de arte para clientes como MIT Media Lab, Netflix e Multishow.
@@ -10,4 +10,4 @@ ano: 2023
 tecnica: V&#237;deo e arte digital.
 ---
 
-<iframe width="966" height="543" src="https://www.youtube.com/embed/IZiJLBhKgfY" title="VÍDEO-ATLAS DE FUTUROS URBANOS: A SURDEZ DO IMAGINÁRIO - Fernando Longhi, Ribs Seixas." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="966" height="543" src="https://museu.xyz/abertura-amazonia?share=amazonia" title="VÍDEO-ATLAS DE FUTUROS URBANOS: A SURDEZ DO IMAGINÁRIO - Fernando Longhi, Ribs Seixas." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
