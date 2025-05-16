@@ -10,6 +10,6 @@ ano: 2025
 tecnica: Animação em software de CAD (Design Assistido por Computado)
 ---
 
-<iframe class="frame" scrolling="no" src="https://www.youtube.com/watch?v=fxJaLhwcJis&ab_channel=MiguelAlonso"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fxJaLhwcJis?si=H0oeqmGCsei5svQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
 <a href="https://www.youtube.com/watch?v=fxJaLhwcJis&ab_channel=MiguelAlonso" target="_blank">TELA INTEIRA</a>

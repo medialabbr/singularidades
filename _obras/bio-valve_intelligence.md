@@ -10,6 +10,6 @@ ano: 2025
 tecnica: Videocriação, tempo 2:01, 1.908 x 1.606, mp4
 ---
 
-<iframe class="frame" scrolling="no" src="https://drive.google.com/file/d/1yzEmAnVUXcUbz7I_2kS6V_98XIVHpav7/view?usp=drive_link"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5d2lNTHcR8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
 <a href="https://drive.google.com/file/d/1yzEmAnVUXcUbz7I_2kS6V_98XIVHpav7/view?usp=drive_link" target="_blank">TELA INTEIRA</a>
