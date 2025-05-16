@@ -7,8 +7,8 @@ layout: default
   {% for obra in site.obras %}
     <div class="card  col-lg-4 col-xl-3 border-0">
       {% if obra.thumbnail %}
-        <div class="box"><a style="text-decoration: none;" href="{{ BASE_PATH }}{{ obra.url | remove: '/index.html' }}" class="shuf">
-          <img src="{{ obra.thumbnail }}" /> 
+        <div class="box"><a style="text-decoration: none;" href="{{site.baseurl}}/{{ obra.url | remove: '/index.html' }}" class="shuf">
+          <img src="{{site.baseurl}}{{ obra.thumbnail }}" /> 
         </a>
         </div>
       {% else %}
@@ -16,7 +16,7 @@ layout: default
       {% endif %}
       <span>{{ obra.artista }}</span>
       <p>
-        <a style="text-decoration: none;" href="{{ BASE_PATH }}{{ obra.url | remove: '/index.html' }}" class="shuf">
+        <a style="text-decoration: none;" href="{{site.baseurl}}/{{ obra.url | remove: '/index.html' }}" class="shuf">
           {{ obra.title }}
         </a>
       </p>

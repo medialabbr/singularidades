@@ -59,7 +59,7 @@ pagination:
     <div class="card  col-lg-4 col-xl-3 border-0">
       {% if post.thumbnail %}
         <div class="box">
-          <img src="{{ post.thumbnail }}" /> 
+          <img src="{{ site.baseurl }}/{{ post.thumbnail }}" /> 
         </div>
       {% else %}
         <img src="" />
