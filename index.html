@@ -7,8 +7,9 @@ layout: default
   {% for obra in site.obras %}
     <div class="card  col-lg-4 col-xl-3 border-0">
       {% if obra.thumbnail %}
-        <div class="box">
+        <div class="box"><a style="text-decoration: none;" href="{{ BASE_PATH }}{{ obra.url | remove: '/index.html' }}" class="shuf">
           <img src="{{ obra.thumbnail }}" /> 
+        </a>
         </div>
       {% else %}
         <img src="" />

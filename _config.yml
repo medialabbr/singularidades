@@ -7,7 +7,7 @@
 
 # Site settings
 title: EmMeio#15
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/exposicao-SIIMI-2025" # the subpath of your site, e.g. /blog
 url: "https://emmeio15.gitlab.io/" # the base hostname & protocol for your site
 
 # Outputting
