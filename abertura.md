@@ -64,7 +64,7 @@ pagination:
       {% else %}
         <img src="" />
       {% endif %}
-      <span>{{ post.artista }}</span>
+     
       <p>
         <a style="text-decoration: none;" href="{{ BASE_PATH }}{{ post.url | remove: '/index.html' }}" class="shuf">
           {{ post.title }}
