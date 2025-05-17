@@ -15,8 +15,7 @@ font-style:normal}
 src:url("/assets/fonts/Replica-Bold.eot");src:url("/assets/fonts/Replica-Bold.eot?#iefix") format("embedded-opentype"),url("/assets/fonts/Replica-Bold.svg#Replica-Bold") format("svg"),url("/assets/fonts/Replica-Bold.ttf") format("truetype"),url("/assets/fonts/Replica-Bold.woff") format("woff"),url("/assets/fonts/Replica-Bold.woff2") format("woff2");
 font-weight:normal;
 font-style:normal}
-
-
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@100..900&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Sora:wght@100..800&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 // Our variables
 
 $text-color:       #ffffff;
@@ -24,6 +23,9 @@ $background-color: #101015;
 
 body {
     background-color: $background-color;
+	 font-family: "Geist", sans-serif;
+  font-optical-sizing: auto;
+
 }
 
 .link-round {
@@ -40,7 +42,7 @@ body {
 	//grid-template-areas:
 	//  "header content content content"
 	//  "footer footer  footer  footer";
-	font-family: 'Replica-Mono', monospace;
+	//font-family: 'Replica-Mono', monospace;
 	// text-align: justify;
 	font-size: 14px;
 	color: #ffffff;
@@ -115,8 +117,9 @@ body {
 	}
 	a {
 		color: #DC1793;
-		font-size: 1.2rem;
-		line-height: 1.1;
+		font-size: 1.4rem;
+		font-weight: 800;
+		line-height: 1;
 		text-transform: lowercase;
 		text-align: left;
 	}
@@ -192,7 +195,7 @@ body {
   background-repeat: no-repeat;
   background-size: 80px;
 	background-position: 1em 5.5em;
-  font-family: 'EB Garamond', serif;
+  //font-family: 'EB Garamond', serif;
   h5 {
     font-size: 1.5em;
     line-height: 1.2;	
