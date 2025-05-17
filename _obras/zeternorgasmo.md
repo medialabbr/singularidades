@@ -9,8 +9,9 @@ texto-descricao: EternOrgasmo é uma animação/animaforismo e vídeo oficial do
 ano: 2025
 tecnica: Animação
 ---
-
+<div class="responsive-iframe">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F_KK1yX5THc?si=Oue2NC-2l3VSu0J6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 <br>
 <a href="https://www.youtube.com/watch?v=F_KK1yX5THc" target="_blank">TELA INTEIRA</a>

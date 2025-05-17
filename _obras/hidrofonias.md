@@ -11,7 +11,8 @@ texto-descricao: Hidrofonias é uma obra sonora criada exclusivamente a partir d
 ano: 2025
 tecnica: Audio-visual. 
 ---
-
-<iframe class="frame" scrolling="no" src="https://vimeo.com/1069784162"></iframe>
+<div class="responsive-iframe">
+<iframe src="https://player.vimeo.com/video/1069784162" class="videoplayer" frameborder="0" allowfullscreen></iframe>
+</div>
 <br>
 <a href="https://vimeo.com/1069784162" target="_blank">TELA INTEIRA</a>

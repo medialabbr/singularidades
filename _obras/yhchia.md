@@ -9,7 +9,8 @@ texto-descricao: YHCHIA (2025) é uma obra de web arte produzida com inteligênc
 ano: 2025
 tecnica: Inteligência artificial, web arte
 ---
-
+<div class="responsive-iframe">
 <iframe class="frame" scrolling="no" src="https://www.fabiofon.com/yhchia"></iframe>
+</div>
 <br>
 <a href="https://www.fabiofon.com/yhchia" target="_blank">TELA INTEIRA</a>

@@ -20,6 +20,7 @@ font-style:normal}
 
 $text-color:       #ffffff;
 $background-color: #101015;
+$corRealce: #DBC08F;
 
 body {
     background-color: $background-color;
@@ -34,7 +35,7 @@ body {
     border-width: 1px;
     border-radius: 30px;
     padding: 15px;
-    border-color: #DC1793;
+    border-color: $corRealce;
 }
 .main {
 	//display: grid;
@@ -67,16 +68,16 @@ body {
 		color: #fff;
 		p {
 			font-size: 14px;
-			color: #DC1793;
+			color: $corRealce;
 			margin-bottom: 0;
 			text-decoration: none;
 		}
 		p:hover {
-			color: #DC1793;
+			color: $corRealce;
 		}
 	}
 	.mainsidebar:hover {
-  		background-color: #DC1793;
+  		background-color: $corRealce;
   		color: #fff;
   		text-decoration: none;
   	}
@@ -85,7 +86,7 @@ body {
   		font-size: 10px;
   		p {
   			padding-bottom: 0;
-  			color: #DC1793;
+  			color: $corRealce;
 
   		}
   	}
@@ -116,7 +117,7 @@ body {
     left: 278px;
 	}
 	a {
-		color: #DC1793;
+		color: $corRealce;
 		font-size: 1.4rem;
 		font-weight: 800;
 		line-height: 1;
@@ -135,7 +136,9 @@ body {
 	  width: 263px;
 	  height: 195px;
 	  padding: 10px;
-	  filter: grayscale(0.8);
+	  filter: grayscale(0.9);
+	  opacity: 0.2;
+	  mix-blend-mode: difference;
 	}
 }
 
@@ -148,14 +151,15 @@ body {
 	}
 
 	img{
-		filter: grayscale(0)
+		filter: grayscale(0);
+		opacity: .7;
 	}
 }
 
 .box {
 	height: 170px;
     width: 240px;
-	border: 1px solid #DC1793;
+	border: 5px solid $corRealce;
 }
 
 .box:hover{
@@ -261,7 +265,7 @@ body {
 
 .obras {
 	padding: 2em 2em 0 0;
-    width: 900px;
+   // width: 900px;
 
 
 	
@@ -280,10 +284,11 @@ body {
 		color: #fff;
 	}
 	h2 {
-		font-size: 14px;
-		text-align: left;
-		color: #DC1793;
-		text-transform: uppercase;
+		    font-size: 1.8rem;
+    text-align: left;
+    color: #fff;
+    text-transform: lowercase;
+	font-weight: 600;
 	}
 	h2, h3 {
 		// padding: 6px 2em;
@@ -370,7 +375,7 @@ body {
 /* MENU MOBILE */
 
 #menuFloat {
-	color: #DC1793;
+	color: $corRealce;
     font-size: 3.7em;
 	padding-top: 4em;
 }
@@ -406,12 +411,53 @@ body {
 
 .sidenav .closebtn {
   position: absolute;
-  color: #DC1793;
+  color: $corRealce;
   top: 0;
   padding-top: 0px;
   font-size: 50px;
 }
 
 .destaque{
-	color: #DC1793;
+	color: $corRealce;
+}
+
+.responsive-iframe {
+	max-width: 100%;
+	padding-top: 56.25%;
+	position: relative;
+	width: 100%;
+	margin-bottom: 1rem;
+}
+
+.responsive-iframe iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border-radius: 10px;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: $corRealce;
+}
+
+:-webkit-scrollbar-track {
+    border-radius: 10px;
+}
+
+.wrap a{
+	background: $corRealce;
+	color: #fff;
+	padding: 10px 8px;
+	border-radius: .25rem;
+
+	&:hover{
+		opacity: .6;
+		text-decoration: none;
+	}
 }

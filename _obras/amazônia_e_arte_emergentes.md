@@ -11,6 +11,8 @@ ano: 2025
 tecnica: A exposição recebeu obras em NFT (non-fungible token) e outros formatos digitais. A exposição está na plataforma Spatial, ambiente digital 3D onde criadores compartilham experiências e exposições na web e pode ser acessada pelo navegador do computador, pelo smartphone e dispositivos móveis ou ainda pelo Oculus em VR (Realidade Virtual). 
 ---
 
-<iframe class="frame" scrolling="no" src="https://amazonia.museu.xyz/"></iframe>
+<div class="responsive-iframe">
+    <iframe class="frame" scrolling="no" src="https://amazonia.museu.xyz/"></iframe>
+</div>
 <br>
 <a href="https://amazonia.museu.xyz/" target="_blank">TELA INTEIRA</a>

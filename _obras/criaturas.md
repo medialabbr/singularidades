@@ -10,7 +10,8 @@ texto-descricao: A poética da obra é desenvolvida em torno da emergência da v
 ano: 2025
 tecnica: A obra é programa e implementada no framework em JavaScript P5.js. Cada criatura é essencialmente representada por um grafo, cujos nós e arestas definem o corpo das criaturas. A obra faz uso de um modelo auto-gerativo baseado nos estudos de Wolfram (2020).
 ---
-
+<div class="responsive-iframe">
 <iframe class="frame" scrolling="no" src="https://crisduarte.github.io/criaturas/"></iframe>
+</div>
 <br>
 <a href="https://crisduarte.github.io/criaturas/" target="_blank">TELA INTEIRA</a>

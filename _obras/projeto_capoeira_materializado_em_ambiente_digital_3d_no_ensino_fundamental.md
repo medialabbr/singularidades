@@ -9,7 +9,7 @@ texto-descricao: Documentar um percurso educativo colaborativo de educadores e e
 ano: 2025
 tecnica: Programação de algoritmos de computação gráfica tridimensional (3D) , no padrão da Web 3D, para criar ambientes digitais 3D de Realidade Virtual
 ---
-
+<div class="responsive-iframe">
 <iframe class="frame" scrolling="no" src="https://copoeira3dgaleryaternanishool.blogspot.com/2024/11/quilombismo-em-3d-quilombismo-in-3d.html"></iframe>
-<br>
+</div>
 <a href="https://copoeira3dgaleryaternanishool.blogspot.com/2024/11/quilombismo-em-3d-quilombismo-in-3d.html" target="_blank">TELA INTEIRA</a>
