@@ -102,8 +102,8 @@ body {
 
 
 .card {
-	width: 263px;
-	height: 195px;
+	max-width: 290px;
+	height: 205px;
 	margin: 40px 30px;
 	background-color: #101015;
 	transition: transform 0.3s;
