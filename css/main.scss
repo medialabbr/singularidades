@@ -420,22 +420,23 @@ body {
 .destaque{
 	color: $corRealce;
 }
-
 .responsive-iframe {
-	max-width: 100%;
-	padding-top: 56.25%;
-	position: relative;
-	width: 100%;
-	margin-bottom: 1rem;
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%; /* Proporção 16:9 */
+  height: 0; /* Importante para funcionar com padding-top */
+  margin-bottom: 1rem;
+  overflow: hidden;
 }
 
 .responsive-iframe iframe {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	border-radius: 10px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  border: 0;
 }
 
 ::-webkit-scrollbar {
