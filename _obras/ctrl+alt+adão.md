@@ -1,7 +1,7 @@
 ---
 layout: obra
 title: Ctrl+Alt+Adão
-thumbnail: /assets/thumbnail/Foto1.png
+thumbnail: /assets/thumbnail/ctrl.png
 artista: Karen Neme Mendes Caetano e Lynn Carone
 l-bio: caetano.karen@gmail.com
 t-bio: 

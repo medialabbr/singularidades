@@ -1,7 +1,7 @@
 ---
 layout: obra
 title: Relógio Explodido 2024/2025
-thumbnail: /assets/thumbnail/Foto1.png
+thumbnail: /assets/thumbnail/relogio.png
 artista: Miguel Alonso A. Carvalho
 l-bio: miguelalonsorj@gmail.com
 t-bio: 

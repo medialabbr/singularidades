@@ -1,7 +1,7 @@
 ---
 layout: obra
 title: YHCHIA
-thumbnail: /assets/thumbnail/Foto1.png
+thumbnail: /assets/thumbnail/yhcia.png
 artista: Fabio FON
 l-bio: fabiofon@gmail.com
 t-bio: 

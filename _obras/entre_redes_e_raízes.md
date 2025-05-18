@@ -1,7 +1,7 @@
 ---
 layout: obra
 title: Entre Redes e Raízes
-thumbnail: /assets/thumbnail/Foto1.png
+thumbnail: /assets/thumbnail/redes.png
 artista: Rafael Silva da Costa
 l-bio: rafael.rsilva79@gmail.com
 t-bio: 

@@ -1,7 +1,7 @@
 ---
 layout: obra
 title: Criaturas
-thumbnail: /assets/thumbnail/Foto1.png
+thumbnail: /assets/thumbnail/criaturas.png
 artista: Cristiane Duarte Siebra Simões e Rolf Ezequiel de Oliveira Simoes
 l-bio: cristiane.duarte@unesp.br
 t-bio: 

@@ -1,7 +1,7 @@
 ---
 layout: obra
 title: Hidrofonias.
-thumbnail: /assets/thumbnail/Foto1.png
+thumbnail: /assets/thumbnail/hidrofonias.png
 artista: Daniel Tomàs Marquina
 l-bio: datomar.upv@gmail.com
 t-bio: 

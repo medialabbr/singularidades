@@ -1,7 +1,7 @@
 ---
 layout: obra
 title: Bio-valve Intelligence
-thumbnail: /assets/thumbnail/Foto1.png
+thumbnail: /assets/thumbnail/biovalve.png
 artista: Helena Hernández-Acuaviva e Emiliano González Herrer
 l-bio: acuaviva@us.es
 t-bio: 

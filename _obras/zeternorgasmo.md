@@ -1,7 +1,7 @@
 ---
 layout: obra
 title: EternOrgasmo
-thumbnail: /assets/thumbnail/Foto1.png
+thumbnail: /assets/thumbnail/eternorgasmo.png
 artista: Edgar Silveira Franco (Ciberpajé) e Diogo Pereira Soares 
 l-bio: ciberpaje@gmail.com
 t-bio: 

@@ -1,7 +1,7 @@
 ---
 layout: obra
 title: PrÁxIs - O amigo sintético 
-thumbnail: /assets/thumbnail/Foto1.png
+thumbnail: /assets/thumbnail/praxis.png
 artista: Ivan Soares David 
 l-bio: ivandavid@usp.br
 t-bio: 

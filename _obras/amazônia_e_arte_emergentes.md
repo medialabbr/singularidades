@@ -1,7 +1,7 @@
 ---
 layout: obra
 title: AMAZÔNIA E ARTE EMERGENTES
-thumbnail: /assets/thumbnail/Foto1.png
+thumbnail: /assets/thumbnail/amazonia.png
 artista: GUIMARÃES, Luiza Helena; ARAÚJO, Marlus Mendonça Silva; CUNHA, Ana Claudia da; SHIMABUKURO, Marcio Hirokazu e ARAÚJO, Marlus Mendonça Silva e ARAÚJO, Marlus Mendonça Silva e ARAÚJO, Marlus Mendonça Silva
 l-bio: anuscacunha@gmail.com
 t-bio: 

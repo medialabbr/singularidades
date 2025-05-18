@@ -1,7 +1,7 @@
 ---
 layout: obra
 title: Projeto Capoeira Materializado em Ambiente Digital 3D no Ensino Fundamental
-thumbnail: /assets/thumbnail/Foto1.png
+thumbnail: /assets/thumbnail/projeto.png
 artista: Jorge Ferreira Franco
 l-bio: musiquarium_2000@yahoo.com
 t-bio: 
